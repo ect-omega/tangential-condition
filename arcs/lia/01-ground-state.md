@@ -1,5 +1,7 @@
 Ground State
 
+[![Ground State header](media/ground-state-header.png)](media/ground-state-header.png)
+
 The café window held the city in smeared bands of green and magenta, rain dragging neon sideways until every tower looked unstable. Inside, everything kept its little promises: grinders hissed, cups stacked true, receipts spat from the register in warm white curls. Lia liked that part. Machines that did what they said.
 
 Marco set a saucer on the little round table by the window and grinned at her through the steam. “You know half the regulars time their mornings by you, right? Same seat, same real face. You make the place feel honest. No overlays, no drift. Just Lia.”

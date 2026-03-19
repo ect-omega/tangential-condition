@@ -4,6 +4,10 @@ This is the main reading surface of the repository.
 
 Each arc folder should be readable on its own and should present prose in a clear local order.
 
+Currently published:
+
+- [Lia](lia/README.md)
+
 Recommended shape:
 
 ```text

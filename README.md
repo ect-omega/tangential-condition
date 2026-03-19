@@ -30,6 +30,7 @@ That is the condition.
 
 Repository Navigation
 - Start with [`reading-orders/`](reading-orders/) if you want a guided path.
+- The current recommended guided path is [`reading-orders/release-order.md`](reading-orders/release-order.md).
 - Browse [`arcs/`](arcs/) if you want to read by narrative thread.
 - Browse [`editions/`](editions/) for assembled, curated cuts of the work.
 
