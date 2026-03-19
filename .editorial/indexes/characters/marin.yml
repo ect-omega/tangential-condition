@@ -1,0 +1,9 @@
+id: "marin"
+display_name: "Marin"
+appears_in_arcs:
+  - "lia"
+canon_refs:
+  candidate_nodes:
+    - "1.01.001"
+publication_notes:
+  - "Marin functions as a short mirror scene that reinforces Lia's identity as the visibly unaugmented holdout."

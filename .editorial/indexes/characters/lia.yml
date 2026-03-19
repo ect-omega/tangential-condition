@@ -1,0 +1,24 @@
+id: "lia"
+display_name: "Lia"
+primary_arc: "lia"
+appears_in_arcs:
+  - "lia"
+canon_refs:
+  focus_track: "lia"
+  candidate_nodes:
+    - "1.01.001"
+    - "1.01.003"
+    - "1.01.004"
+    - "1.01.005"
+    - "1.01.006"
+    - "1.01.007"
+relationships:
+  - character: "Ava"
+    type: "intimate pressure, care, and emerging dependency"
+  - character: "Marco"
+    type: "grounding social witness"
+  - character: "Marin"
+    type: "social mirror for anti-augmentation identity"
+publication_notes:
+  - "Reader-facing baseline centers on refusal of augmentation, pressure to remain stable, and increasing discomfort with that role."
+  - "This ingress item marks the first major fracture in her opening arc."

@@ -28,6 +28,11 @@ If meaning forms, it does so at an angle.
 
 That is the condition.
 
+Repository Navigation
+- Start with [`reading-orders/`](reading-orders/) if you want a guided path.
+- Browse [`arcs/`](arcs/) if you want to read by narrative thread.
+- Browse [`editions/`](editions/) for assembled, curated cuts of the work.
+
 Reading
 - Treat each fragment as self-sufficient; reordering is expected.
 - Revisit over time; connections surface slowly.

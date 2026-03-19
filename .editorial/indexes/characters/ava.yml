@@ -1,0 +1,18 @@
+id: "ava"
+display_name: "Ava"
+primary_arc: "ava"
+appears_in_arcs:
+  - "ava"
+  - "lia"
+canon_refs:
+  focus_track: "ava"
+  candidate_nodes:
+    - "1.01.001"
+    - "1.01.004"
+    - "1.01.007"
+relationships:
+  - character: "Lia"
+    type: "care, recruitment pressure, and attachment leverage"
+publication_notes:
+  - "In this ingress item Ava functions as both emotional refuge and ideological pressure point inside Lia's primary arc."
+  - "Virtualia enters the reader-facing layer primarily through Ava's rhetoric and presence."

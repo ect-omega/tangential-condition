@@ -1,0 +1,13 @@
+id: "marco"
+display_name: "Marco"
+appears_in_arcs:
+  - "lia"
+canon_refs:
+  candidate_nodes:
+    - "1.01.001"
+    - "1.01.007"
+relationships:
+  - character: "Lia"
+    type: "routine witness and practical stabilizer"
+publication_notes:
+  - "Marco helps establish public normalcy before fracture and quietly registers the shift afterward."

@@ -1,0 +1,30 @@
+ingest_id: "ing-YYYYMMDD-001"
+status: "incoming"
+kind: "interpretation"
+source:
+  file: "drop.md"
+  arrived_at: "YYYY-MM-DD"
+  origin: "human-or-agent"
+  canon_ref: "<commit-or-tag-if-known>"
+classification:
+  primary_arc: ""
+  converging_arcs: []
+  candidate_nodes: []
+  focus_tracks: []
+  timeline_anchor: ""
+  lanes: []
+  waveform: ""
+  entropy: ""
+  convergence_role: ""
+entities:
+  characters: []
+  events: []
+  devices: []
+continuity:
+  aligns_with_canon: "unknown"
+  risks: []
+  open_questions: []
+routing:
+  recommended_action: "triage"
+  target_path: ""
+  notes: []

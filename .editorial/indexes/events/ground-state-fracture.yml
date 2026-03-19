@@ -1,0 +1,30 @@
+id: "ground-state-fracture"
+label: "Lia baseline rupture and bar-stairwell assault attempt"
+primary_arc: "lia"
+converging_arcs:
+  - "ava"
+canon_refs:
+  candidate_nodes:
+    - "1.01.001"
+    - "1.01.003"
+    - "1.01.004"
+    - "1.01.005"
+    - "1.01.006"
+    - "1.01.007"
+characters:
+  - "Lia"
+  - "Ava"
+  - "Marco"
+  - "Marin"
+devices:
+  - "Virtualia"
+convergence:
+  role: "seed -> fracture"
+  focus_tracks:
+    - "lia"
+    - "ava"
+waveform: "Grounding -> Perturbation -> Fracture -> Anti-Resolution"
+entropy: "low -> high -> mid"
+publication_notes:
+  - "This event bundle is a strong candidate for the first major Lia section because it contains the baseline identity pressure and the first undeniable bodily fracture."
+  - "If published as one section, it should be understood as a composite rather than a one-node render."

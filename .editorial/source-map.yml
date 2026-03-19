@@ -1,0 +1,24 @@
+canon_repo: "/home/zevilz/Documents/cpc-story/canon"
+canon_ref: "workspace-uncommitted"
+blueprint_authority: "documentation/CPC_Blueprint_v3_4.md"
+sections:
+  - public_path: "arcs/lia/01-ground-state.md"
+    primary_arc: "lia"
+    converging_arcs:
+      - "ava"
+    source_nodes:
+      - node_key: "1.01.001"
+        source_path: "canon/prose/drafts/part1/1.01.001.md"
+      - node_key: "1.01.003"
+        source_path: "canon/prose/drafts/part1/1.01.003.md"
+      - node_key: "1.01.004"
+        source_path: "canon/prose/drafts/part1/1.01.004.md"
+      - node_key: "1.01.005"
+        source_path: "canon/prose/drafts/part1/1.01.005.md"
+      - node_key: "1.01.006"
+        source_path: "canon/prose/drafts/part1/1.01.006.md"
+      - node_key: "1.01.007"
+        source_path: "canon/prose/drafts/part1/1.01.007.md"
+    notes:
+      - "Promoted from inbox interpretation ground-state.md on 2026-03-19."
+      - "Composite reader-facing section in Lia's arc with Ava convergence."

@@ -1,0 +1,12 @@
+canon_repo: "<repo-url-or-local-path>"
+canon_ref: "<commit-or-tag>"
+blueprint_authority: "documentation/CPC_Blueprint_v3_4.md"
+sections:
+  - public_path: "arcs/lia/01-ground-state.md"
+    primary_arc: "lia"
+    converging_arcs:
+      - "ava"
+    source_nodes:
+      - node_key: "1.01.001"
+        source_path: "canon/prose/drafts/part1/1.01.001.md"
+    notes: []
