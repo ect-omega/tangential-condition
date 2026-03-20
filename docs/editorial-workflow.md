@@ -87,6 +87,8 @@ Maintain at least:
 
 Only store publication-useful derivatives here. Do not recreate the entire lore repo.
 
+After the relevant facts have been extracted and the prose has been routed, move the ingress files out of the live inbox and into `.editorial/inbox/.processed/` unless they should be discarded entirely.
+
 ## 7. Use reading orders to handle nonlinearity
 
 Because the work is nonlinear, readers need explicit guidance.

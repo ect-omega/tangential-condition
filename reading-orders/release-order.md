@@ -13,6 +13,8 @@ Reason:
 ## Current sequence
 
 1. [Lia 01: Ground State](../arcs/lia/01-ground-state.md)
+2. [Lia 02: Soft Hold](../arcs/lia/02-soft-hold.md)
+3. [Lia 03: Soft Climate](../arcs/lia/03-soft-climate.md)
 
 ## Notes
 

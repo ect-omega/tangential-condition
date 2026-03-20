@@ -33,6 +33,21 @@ Each inbox item should include:
 - one intake manifest based on `.editorial/inbox/intake.template.yml`
 - optional sidecar notes if the mapper needs to explain ambiguities
 
+## Inbox hygiene
+
+The live inbox should only contain items that still need work.
+
+After an item is:
+
+- mapped
+- promoted
+- held for later
+- archived
+
+move its local ingress files into `.editorial/inbox/.processed/` or remove them if they no longer need to be kept locally.
+
+This keeps future agent passes from mistaking already-processed drops for new work.
+
 Arc ownership rule:
 
 - one section should have one primary arc
@@ -79,6 +94,11 @@ Recommended statuses:
 - `promoted`
 - `held`
 - `archived`
+
+Status handling rule:
+
+- status alone is not enough
+- once the intake work is done, clear the live inbox by moving the associated files into `.processed/`
 
 ## What to extract into indexes
 

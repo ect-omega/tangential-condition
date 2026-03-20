@@ -29,7 +29,8 @@ This repository is the public reading surface for story prose.
 2. Classify `primary_arc`, `converging_arcs`, source nodes, entities, and structural role.
 3. Promote accepted prose into `arcs/<character>/NN-title.md`.
 4. Update `.editorial/source-map.yml`.
-5. Update reading-order files if the public path changes.
+5. Move processed local ingress files from `.editorial/inbox/` into `.editorial/inbox/.processed/`.
+6. Update reading-order files if the public path changes.
 
 ## Reading-order policy
 
@@ -41,6 +42,11 @@ This repository is the public reading surface for story prose.
 - Keep media local to the relevant arc when possible.
 - Prefer `arcs/<character>/media/` for section-specific images.
 - Do not clutter the prose sequence with loose asset files.
+
+## Inbox hygiene
+
+- `.editorial/inbox/` should contain only items that still need agent attention.
+- Once processed, local ingress files should be moved into `.editorial/inbox/.processed/` or removed.
 
 ## Editing policy
 

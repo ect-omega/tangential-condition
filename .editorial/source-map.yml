@@ -22,3 +22,31 @@ sections:
     notes:
       - "Promoted from inbox interpretation ground-state.md on 2026-03-19."
       - "Composite reader-facing section in Lia's arc with Ava convergence."
+  - public_path: "arcs/lia/02-soft-hold.md"
+    primary_arc: "lia"
+    converging_arcs:
+      - "ava"
+    source_nodes:
+      - node_key: "1.01.008"
+        source_path: "canon/prose/drafts/part1/1.01.008.md"
+      - node_key: "1.01.009"
+        source_path: "canon/prose/drafts/part1/1.01.009.md"
+      - node_key: "1.01.011"
+        source_path: "canon/prose/drafts/part1/1.01.011.md"
+    notes:
+      - "Promoted from soft-hold composite on 2026-03-19."
+      - "Lia-owned recovery section with Ava convergence."
+  - public_path: "arcs/lia/03-soft-climate.md"
+    primary_arc: "lia"
+    converging_arcs:
+      - "ava"
+    source_nodes:
+      - node_key: "1.01.012"
+        source_path: "canon/prose/drafts/part1/1.01.012.md"
+      - node_key: "1.01.013"
+        source_path: "canon/prose/drafts/part1/1.01.013.md"
+      - node_key: "1.01.014"
+        source_path: "canon/prose/drafts/part1/1.01.014.md"
+    notes:
+      - "Promoted from soft-hold composite on 2026-03-19."
+      - "Dependency-softening continuation in Lia's arc with Ava convergence."
