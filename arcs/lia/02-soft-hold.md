@@ -1,6 +1,6 @@
 Soft Hold
 
-The water Marco had brought her had gone flat by the time Ava came through the door.
+The ice in the water Marco had brought her had long since melted, the glass no longer sweating, by the time Ava came through the door.
 
 Rain darkened her coat at the shoulders. She crossed the café without hurry, but the room shifted for her anyway: a stool scraped back, the line at the register bent around her, someone moved aside without being asked. Lia hated how much relief she felt at the sight of her.
 
