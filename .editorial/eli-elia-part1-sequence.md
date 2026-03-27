@@ -19,6 +19,7 @@ Current inbox state:
 - promoted section now public at `arcs/eli/01-truer-floor.md`
 - promoted section now public at `arcs/eli/02-automatic-continuation.md`
 - promoted section now public at `arcs/eli/03-registered-baseline.md`
+- promoted section now public at `arcs/eli/04-marcus-interface.md`
 - control packet: `.editorial/inbox/eli-elia-polish-packet.json`
 
 Provisional 9-section Part 1 map:
@@ -41,7 +42,7 @@ Provisional 9-section Part 1 map:
 4. Section 04: Marcus interface
    Nodes: `1.05.007`, `1.05.008`, `1.05.009`, `1.05.009a`, `1.05.009b`
    Function: position Marcus as Damien's Virtualia-side face and teach Elia that attention is infrastructure
-   Status: awaiting prose promotion decision
+   Status: promoted as `arcs/eli/04-marcus-interface.md`, release order deferred
 
 5. Section 05: symbolic placement
    Nodes: `1.05.010`, `1.05.011`, `1.05.011a`, `1.05.012`

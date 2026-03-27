@@ -122,3 +122,25 @@ sections:
       - "Promoted from inbox interpretation automatic-continuation-3-of-9.md on 2026-03-27."
       - "Composite Eli / Elia permanence section preserving both coercive machinery and the relief of stabilized continuity."
       - "Published to arcs while intentionally deferred from release order."
+  - public_path: "arcs/eli/04-marcus-interface.md"
+    primary_arc: "eli"
+    publication:
+      status: "published"
+      release_order: "deferred"
+    converging_arcs:
+      - "damien"
+    source_nodes:
+      - node_key: "1.05.007"
+        source_path: "canon/prose/drafts/part1/1.05.007.md"
+      - node_key: "1.05.008"
+        source_path: "canon/prose/drafts/part1/1.05.008.md"
+      - node_key: "1.05.009"
+        source_path: "canon/prose/drafts/part1/1.05.009.md"
+      - node_key: "1.05.009a"
+        source_path: "canon/prose/drafts/part1/1.05.009a.md"
+      - node_key: "1.05.009b"
+        source_path: "canon/prose/drafts/part1/1.05.009b.md"
+    notes:
+      - "Promoted from inbox interpretation automatic-continuation-4-of-9.md on 2026-03-27."
+      - "Composite Elia section covering acclimation, Marcus calibration, and the threshold into Damien's private room."
+      - "Published to arcs while intentionally deferred from release order."
