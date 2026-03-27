@@ -4,6 +4,9 @@ blueprint_authority: "documentation/CPC_Blueprint_v3_4.md"
 sections:
   - public_path: "arcs/lia/01-ground-state.md"
     primary_arc: "lia"
+    publication:
+      status: "published"
+      release_order: "included"
     converging_arcs:
       - "ava"
     source_nodes:

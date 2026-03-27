@@ -1,5 +1,7 @@
 Soft Climate
 
+[![Soft Climate header](media/soft-climate-header.png)](media/soft-climate-header.png)
+
 One day became several.
 
 The next afternoon Ava came back from outside with Lia’s charger, a clean sweater, her book from the bedside table, and the ibuprofen from her bathroom cabinet. Lia stared at the things laid out on the chair and tried to remember whether she had clearly asked for any of them.

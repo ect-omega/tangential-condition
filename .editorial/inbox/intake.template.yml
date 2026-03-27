@@ -27,4 +27,8 @@ continuity:
 routing:
   recommended_action: "triage"
   target_path: ""
+  release_order:
+    action: "defer"
+    scheduled: false
+    notes: []
   notes: []

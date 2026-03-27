@@ -2,13 +2,14 @@
 
 This is the default recommended reading order.
 
-Right now, `release order` and `reading order` are effectively the same thing for the public repo.
+Right now, this file is the default guided path through the material that is actively released for that path.
 
 Reason:
 
 - the canon-side prose is being polished according to the blueprint's intended sequencing
 - convergence timing matters
 - later threads and alternate views often land better after the earlier release-path material
+- some public arc sections may exist before they are scheduled into this order
 
 ## Current sequence
 
@@ -18,5 +19,5 @@ Reason:
 
 ## Notes
 
-- This order should expand as new public sections are promoted.
+- This order should expand when new public sections are scheduled for release order.
 - Alternate reading orders may appear later, but they should be treated as optional structures, not replacements for the release path.

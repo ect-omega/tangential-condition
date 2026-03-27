@@ -116,6 +116,9 @@ Use this for:
 - alternate arc-first orders
 - spoiler-aware orders
 
+`release-order.md` should only include sections that are actively part of the current guided release path.
+Not every public arc section needs to appear there immediately.
+
 ### `editions/`
 
 This holds assembled experiences:
@@ -210,6 +213,7 @@ That gives you a repo you can confidently send to readers without losing the abi
 - Use numeric prefixes inside arcs only for local reader order.
 - Give each section one primary arc, then record convergence from other arcs in `.editorial/`.
 - Record source-node provenance in `.editorial/`, not in public prose unless needed.
+- Treat `release order` as a scheduled reader path, not an automatic list of every public section.
 - Treat editions as curated packages, not the default browsing surface.
 - Treat `.editorial/inbox/` as transient ingress, not archival storage.
 - Promote stable extracted metadata from inbox analysis into `.editorial/indexes/`.

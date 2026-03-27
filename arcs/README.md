@@ -6,6 +6,7 @@ Each arc folder should be readable on its own and should present prose in a clea
 
 Currently published:
 
+- [Eli / Elia](eli/README.md)
 - [Lia](lia/README.md)
 
 Recommended shape:

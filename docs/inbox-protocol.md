@@ -54,6 +54,12 @@ Arc ownership rule:
 - other characters and tracks may converge heavily inside it
 - convergence should be recorded explicitly rather than collapsing the section into a mixed-ownership arc
 
+Release scheduling rule:
+
+- promotion into `arcs/` does not require immediate inclusion in `reading-orders/release-order.md`
+- some items should become public arc sections first and remain unscheduled until their release window
+- intake notes should state whether release-order enrollment is `include-now` or `defer`
+
 ## Minimum fields the agent should determine
 
 For each inbox item, determine as much of the following as possible:
@@ -72,12 +78,14 @@ For each inbox item, determine as much of the following as possible:
 - timeline anchor
 - continuity risks
 - recommended routing
+- release-order action
 
 ## Recommended routing outcomes
 
 An inbox item should usually end up in one of these buckets:
 
 - `promote-to-arc-section`
+- `promote-to-arc-section-and-defer-release-order`
 - `split-into-multiple-sections`
 - `merge-with-existing-section`
 - `hold-for-edition-only`

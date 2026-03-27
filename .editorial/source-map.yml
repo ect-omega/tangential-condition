@@ -4,6 +4,9 @@ blueprint_authority: "documentation/CPC_Blueprint_v3_4.md"
 sections:
   - public_path: "arcs/lia/01-ground-state.md"
     primary_arc: "lia"
+    publication:
+      status: "published"
+      release_order: "included"
     converging_arcs:
       - "ava"
     source_nodes:
@@ -24,6 +27,9 @@ sections:
       - "Composite reader-facing section in Lia's arc with Ava convergence."
   - public_path: "arcs/lia/02-soft-hold.md"
     primary_arc: "lia"
+    publication:
+      status: "published"
+      release_order: "included"
     converging_arcs:
       - "ava"
     source_nodes:
@@ -38,6 +44,9 @@ sections:
       - "Lia-owned recovery section with Ava convergence."
   - public_path: "arcs/lia/03-soft-climate.md"
     primary_arc: "lia"
+    publication:
+      status: "published"
+      release_order: "included"
     converging_arcs:
       - "ava"
     source_nodes:
@@ -50,3 +59,66 @@ sections:
     notes:
       - "Promoted from soft-hold composite on 2026-03-19."
       - "Dependency-softening continuation in Lia's arc with Ava convergence."
+  - public_path: "arcs/eli/01-truer-floor.md"
+    primary_arc: "eli"
+    publication:
+      status: "published"
+      release_order: "deferred"
+    converging_arcs:
+      - "jonathan"
+      - "damien"
+      - "shinobi"
+    source_nodes:
+      - node_key: "1.01.025"
+        source_path: "canon/prose/drafts/part1/1.01.025.md"
+      - node_key: "1.01.028"
+        source_path: "canon/prose/drafts/part1/1.01.028.md"
+      - node_key: "1.02.002"
+        source_path: "canon/prose/drafts/part1/1.02.002.md"
+      - node_key: "1.03.002"
+        source_path: "canon/prose/drafts/part1/1.03.002.md"
+      - node_key: "1.05.002a"
+        source_path: "canon/prose/drafts/part1/1.05.002a.md"
+      - node_key: "1.05.003a"
+        source_path: "canon/prose/drafts/part1/1.05.003a.md"
+    notes:
+      - "Promoted from inbox interpretation automatic-continuation-1-of-9.md on 2026-03-26."
+      - "Composite Eli / Elia opener establishing leverage, paternal misrecognition, and adaptive return."
+      - "Published to arcs while intentionally deferred from release order."
+  - public_path: "arcs/eli/02-automatic-continuation.md"
+    primary_arc: "eli"
+    publication:
+      status: "published"
+      release_order: "deferred"
+    converging_arcs:
+      - "jonathan"
+    source_nodes:
+      - node_key: "1.05.001"
+        source_path: "canon/prose/drafts/part1/1.05.001.md"
+      - node_key: "1.05.003a"
+        source_path: "canon/prose/drafts/part1/1.05.003a.md"
+    notes:
+      - "Promoted from inbox interpretation automatic-continuation-2-of-9.md on 2026-03-27."
+      - "Composite Eli / Elia continuation establishing explicit private naming, repeated return, and automatic-continuation pressure."
+      - "Published to arcs while intentionally deferred from release order."
+  - public_path: "arcs/eli/03-registered-baseline.md"
+    primary_arc: "eli"
+    publication:
+      status: "published"
+      release_order: "deferred"
+    converging_arcs:
+      - "jonathan"
+      - "damien"
+    source_nodes:
+      - node_key: "1.03.010"
+        source_path: "canon/prose/drafts/part1/1.03.010.md"
+      - node_key: "1.05.004"
+        source_path: "canon/prose/drafts/part1/1.05.004.md"
+      - node_key: "1.05.006a"
+        source_path: "canon/prose/drafts/part1/1.05.006a.md"
+      - node_key: "1.03.015"
+        source_path: "canon/prose/drafts/part1/1.03.015.md"
+    notes:
+      - "Promoted from inbox interpretation automatic-continuation-3-of-9.md on 2026-03-27."
+      - "Composite Eli / Elia permanence section preserving both coercive machinery and the relief of stabilized continuity."
+      - "Published to arcs while intentionally deferred from release order."

@@ -14,6 +14,9 @@ Why this is the default:
 
 So for now, release order is the clearest reader-facing path.
 
+Not every public section under `arcs/` has to appear there immediately.
+Some sections may be readable in their arc before they are scheduled into the default guided path.
+
 As more arcs and sections go public, this directory can also include alternate approaches such as:
 
 - character-first reading

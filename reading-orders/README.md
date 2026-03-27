@@ -8,6 +8,7 @@ Current rule:
 
 - `release-order.md` is the default recommended reading path
 - alternate orders can be added later when enough public sections exist to justify them
+- public availability in `arcs/` does not automatically mean inclusion in `release-order.md`
 
 Recommended files:
 
@@ -23,3 +24,5 @@ Each guide should explain:
 - which arcs or sections it expects the reader to open
 
 For now, `release order` is the practical reading-order concept because the source prose is being polished upstream according to the blueprint's intended sequencing and convergence logic.
+
+That path should include the sections meant for the current guided release window, not necessarily every public section already living under `arcs/`.

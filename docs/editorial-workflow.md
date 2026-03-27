@@ -36,6 +36,7 @@ The inbox is the staging area where the agent answers:
 - what it is doing structurally
 - who and what it contains
 - whether it should become a public section, be split, be merged, or be held
+- whether it should enter `release order` now or stay public-but-unscheduled until later
 
 ## 3. Decide the reader-facing destination first
 
@@ -58,6 +59,12 @@ A section may map to:
 - a bridge written to smooth transitions
 
 The public file should optimize for readability on GitHub, not for canon atom purity.
+
+Publication and release scheduling are separate decisions:
+
+- promotion decides whether the prose becomes a public section under `arcs/`
+- release scheduling decides whether that public section is added to `reading-orders/release-order.md` now
+- a section may be public in `arcs/` while remaining out of `release order` until its intended release window
 
 Publication rule:
 
@@ -101,6 +108,11 @@ Keep that guidance under `reading-orders/`:
 - spoiler-aware routes
 
 The reading-order layer is what makes a nonlinear repo readable.
+
+Do not treat promotion as automatic release-order enrollment.
+
+`release order` is the default guided path for material that is meant to be encountered now.
+Some public arc sections may remain intentionally unscheduled there until they are ready to be part of that path.
 
 ## 8. Assemble editions separately
 
