@@ -164,3 +164,19 @@ sections:
       - "Promoted from inbox interpretation automatic-continuation-4-of-13.md on 2026-03-28."
       - "Composite Elia section covering managed acclimation, preference mapping, and shoreline threshold before Marcus contact."
       - "Published to arcs while intentionally deferred from release order."
+  - public_path: "arcs/eli/05-beach-calibration.md"
+    primary_arc: "eli"
+    publication:
+      status: "published"
+      release_order: "deferred"
+    converging_arcs:
+      - "damien"
+    source_nodes:
+      - node_key: "1.05.007"
+        source_path: "canon/prose/drafts/part1/1.05.007.md"
+      - node_key: "1.05.008"
+        source_path: "canon/prose/drafts/part1/1.05.008.md"
+    notes:
+      - "Promoted from inbox interpretation automatic-continuation-5-of-13.md on 2026-03-28."
+      - "Composite Elia beach-calibration section preserving Marcus as socially plausible first and operationally submerged second."
+      - "Published to arcs while intentionally deferred from release order."

@@ -20,6 +20,7 @@ Current inbox state:
 - promoted section now public at `arcs/eli/02-automatic-continuation.md`
 - promoted section now public at `arcs/eli/03-registered-baseline.md`
 - promoted section now public at `arcs/eli/04-preference-mapping.md`
+- promoted section now public at `arcs/eli/05-beach-calibration.md`
 - control packet: `.editorial/inbox/eli-elia-polish-packet.json`
 - structure guardrails: `.editorial/inbox/eli-elia-polish-structure-guardrails.md`
 
@@ -48,7 +49,7 @@ Provisional 13-section Part 1 map:
 5. Section 05: beach calibration
    Nodes: `1.05.007`, `1.05.008`
    Function: let Damien-in-Marcus approach Elia as a socially plausible, mildly flirtatious resident while the business layer stays submerged
-   Status: awaiting prose promotion decision
+   Status: promoted as `arcs/eli/05-beach-calibration.md`, release order deferred
 
 6. Section 06: private reveal corridor
    Nodes: `1.05.009`, `1.05.009a`, `1.05.009b`

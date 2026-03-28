@@ -18,3 +18,4 @@ Current sequence:
 2. [Automatic Continuation](02-automatic-continuation.md)
 3. [Registered Baseline](03-registered-baseline.md)
 4. [Preference Mapping](04-preference-mapping.md)
+5. [Beach Calibration](05-beach-calibration.md)
