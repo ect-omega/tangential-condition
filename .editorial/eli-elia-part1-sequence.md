@@ -21,6 +21,7 @@ Current inbox state:
 - promoted section now public at `arcs/eli/03-registered-baseline.md`
 - promoted section now public at `arcs/eli/04-preference-mapping.md`
 - promoted section now public at `arcs/eli/05-beach-calibration.md`
+- promoted section now public at `arcs/eli/06-different-room.md`
 - control packet: `.editorial/inbox/eli-elia-polish-packet.json`
 - structure guardrails: `.editorial/inbox/eli-elia-polish-structure-guardrails.md`
 
@@ -54,7 +55,7 @@ Provisional 13-section Part 1 map:
 6. Section 06: private reveal corridor
    Nodes: `1.05.009`, `1.05.009a`, `1.05.009b`
    Function: move from invitation logic into Damien's reveal without collapsing Marcus and Damien into separate people or a fully explained agenda
-   Status: awaiting prose promotion decision
+   Status: promoted as `arcs/eli/06-different-room.md`, release order deferred
 
 7. Section 07: crimson threshold
    Nodes: `1.05.009c`

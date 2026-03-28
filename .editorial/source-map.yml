@@ -180,3 +180,21 @@ sections:
       - "Promoted from inbox interpretation automatic-continuation-5-of-13.md on 2026-03-28."
       - "Composite Elia beach-calibration section preserving Marcus as socially plausible first and operationally submerged second."
       - "Published to arcs while intentionally deferred from release order."
+  - public_path: "arcs/eli/06-different-room.md"
+    primary_arc: "eli"
+    publication:
+      status: "published"
+      release_order: "deferred"
+    converging_arcs:
+      - "damien"
+    source_nodes:
+      - node_key: "1.05.009"
+        source_path: "canon/prose/drafts/part1/1.05.009.md"
+      - node_key: "1.05.009a"
+        source_path: "canon/prose/drafts/part1/1.05.009a.md"
+      - node_key: "1.05.009b"
+        source_path: "canon/prose/drafts/part1/1.05.009b.md"
+    notes:
+      - "Promoted from inbox interpretation automatic-continuation-6-of-13.md on 2026-03-28."
+      - "Composite Elia private-reveal corridor section carrying the inland bar, attention-as-infrastructure, and the Marcus-to-Damien clarification."
+      - "Published to arcs while intentionally deferred from release order."
