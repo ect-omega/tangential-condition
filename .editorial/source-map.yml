@@ -212,3 +212,26 @@ sections:
       - "Promoted from inbox interpretation automatic-continuation-7-of-13.md on 2026-03-29."
       - "Composite Elia threshold section preserving the crimson-dress private hinge before gala-symbolic placement."
       - "Published to arcs while intentionally deferred from release order."
+  - public_path: "arcs/eli/08-symbolic-placement.md"
+    primary_arc: "eli"
+    publication:
+      status: "published"
+      release_order: "deferred"
+    converging_arcs:
+      - "damien"
+      - "jonathan"
+      - "ava"
+      - "elias"
+    source_nodes:
+      - node_key: "1.05.010"
+        source_path: "canon/prose/drafts/part1/1.05.010.md"
+      - node_key: "1.05.011"
+        source_path: "canon/prose/drafts/part1/1.05.011.md"
+      - node_key: "1.05.011a"
+        source_path: "canon/prose/drafts/part1/1.05.011a.md"
+      - node_key: "1.05.012"
+        source_path: "canon/prose/drafts/part1/1.05.012.md"
+    notes:
+      - "Promoted from inbox interpretation automatic-continuation-8-of-13.md on 2026-03-29."
+      - "Composite Elia symbolic-placement section carrying gala scrutiny, live cathedral convergence, and Damien's public crucible framing."
+      - "Published to arcs while intentionally deferred from release order."

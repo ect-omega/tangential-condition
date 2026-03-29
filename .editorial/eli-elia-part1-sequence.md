@@ -23,6 +23,7 @@ Current inbox state:
 - promoted section now public at `arcs/eli/05-beach-calibration.md`
 - promoted section now public at `arcs/eli/06-different-room.md`
 - promoted section now public at `arcs/eli/07-crimson-threshold.md`
+- promoted section now public at `arcs/eli/08-symbolic-placement.md`
 - control packet: `.editorial/inbox/eli-elia-polish-packet.json`
 - structure guardrails: `.editorial/inbox/eli-elia-polish-structure-guardrails.md`
 
@@ -66,7 +67,7 @@ Provisional 13-section Part 1 map:
 8. Section 08: symbolic placement
    Nodes: `1.05.010`, `1.05.011`, `1.05.011a`, `1.05.012`
    Function: move Elia into Damien's public-symbolic field without overstating early recruitment, preserving the cathedral rupture as live convergence
-   Status: awaiting prose promotion decision
+   Status: promoted as `arcs/eli/08-symbolic-placement.md`, release order deferred
 
 9. Section 09: speech and pivot
    Nodes: `1.05.013`, `1.05.014`, `1.05.015`
