@@ -198,3 +198,17 @@ sections:
       - "Promoted from inbox interpretation automatic-continuation-6-of-13.md on 2026-03-28."
       - "Composite Elia private-reveal corridor section carrying the inland bar, attention-as-infrastructure, and the Marcus-to-Damien clarification."
       - "Published to arcs while intentionally deferred from release order."
+  - public_path: "arcs/eli/07-crimson-threshold.md"
+    primary_arc: "eli"
+    publication:
+      status: "published"
+      release_order: "deferred"
+    converging_arcs:
+      - "damien"
+    source_nodes:
+      - node_key: "1.05.009c"
+        source_path: "canon/prose/drafts/part1/1.05.009c.md"
+    notes:
+      - "Promoted from inbox interpretation automatic-continuation-7-of-13.md on 2026-03-29."
+      - "Composite Elia threshold section preserving the crimson-dress private hinge before gala-symbolic placement."
+      - "Published to arcs while intentionally deferred from release order."

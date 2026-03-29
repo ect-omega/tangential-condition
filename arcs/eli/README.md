@@ -20,3 +20,4 @@ Current sequence:
 4. [Preference Mapping](04-preference-mapping.md)
 5. [Beach Calibration](05-beach-calibration.md)
 6. [Different Room](06-different-room.md)
+7. [Crimson Threshold](07-crimson-threshold.md)

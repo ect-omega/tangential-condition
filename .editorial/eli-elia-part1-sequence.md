@@ -22,6 +22,7 @@ Current inbox state:
 - promoted section now public at `arcs/eli/04-preference-mapping.md`
 - promoted section now public at `arcs/eli/05-beach-calibration.md`
 - promoted section now public at `arcs/eli/06-different-room.md`
+- promoted section now public at `arcs/eli/07-crimson-threshold.md`
 - control packet: `.editorial/inbox/eli-elia-polish-packet.json`
 - structure guardrails: `.editorial/inbox/eli-elia-polish-structure-guardrails.md`
 
@@ -60,7 +61,7 @@ Provisional 13-section Part 1 map:
 7. Section 07: crimson threshold
    Nodes: `1.05.009c`
    Function: preserve the private processing hinge between reveal and public placement, with the crimson dress as threshold iconography rather than pure styling
-   Status: awaiting prose promotion decision
+   Status: promoted as `arcs/eli/07-crimson-threshold.md`, release order deferred
 
 8. Section 08: symbolic placement
    Nodes: `1.05.010`, `1.05.011`, `1.05.011a`, `1.05.012`
