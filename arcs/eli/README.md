@@ -21,4 +21,3 @@ Current sequence:
 5. [Beach Calibration](05-beach-calibration.md)
 6. [Different Room](06-different-room.md)
 7. [Crimson Threshold](07-crimson-threshold.md)
-8. [Symbolic Placement](08-symbolic-placement.md)

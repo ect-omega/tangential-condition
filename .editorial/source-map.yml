@@ -215,7 +215,7 @@ sections:
   - public_path: "arcs/eli/08-symbolic-placement.md"
     primary_arc: "eli"
     publication:
-      status: "published"
+      status: "removed"
       release_order: "deferred"
     converging_arcs:
       - "damien"
@@ -235,3 +235,4 @@ sections:
       - "Promoted from inbox interpretation automatic-continuation-8-of-13.md on 2026-03-29."
       - "Composite Elia symbolic-placement section carrying gala scrutiny, live cathedral convergence, and Damien's public crucible framing."
       - "Published to arcs while intentionally deferred from release order."
+      - "Public file deleted on 2026-03-29 after canon inconsistencies were found during review."
